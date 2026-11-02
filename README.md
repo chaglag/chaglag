@@ -1,11 +1,11 @@
-# Hi, I'm Chaitanya 👋
+# Hi, I'm Chaitanya
 
 I build **software that talks to machines**: local AI systems, and the glue code that makes
 robots, cameras and PLCs do useful work.
 
-- 🤖 Industrial automation: cobot cells, TCP/Modbus/OPC-UA middleware, vision inspection
-- 🧠 Local-first AI: private, free-to-run assistants that run on my own laptop
-- 🔧 I ship small tools end to end: design, code, tests, docs, packaging
+- Industrial automation: cobot cells, TCP/Modbus/OPC-UA middleware, vision inspection
+- Local-first AI: private, free-to-run assistants that run on my own laptop
+- I ship small tools end to end: design, code, tests, docs, packaging
 
 ## Featured projects
 
@@ -35,4 +35,4 @@ Also: Siemens TIA Portal / S7-1200, Elite cobots, ESP32, Wireshark, Fusion/Solid
 
 ## Contact
 
-📧 gaikarchaitanya69@gmail.com
+gaikarchaitanya69@gmail.com

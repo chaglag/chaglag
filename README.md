@@ -11,11 +11,8 @@ robots, cameras and PLCs do useful work.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **AIOS** *(private repo, demo on request)* | A personal, fully local AI operating layer: planner, research/code/browser/comms agents, permission broker with capability tokens, hash-chained audit log, kill switch, cost governor. 338+ tests, ₹0/month to run. | Python, SQLite, Ollama, Playwright, containers |
 | **aimux** | Middleware that routes tasks to the AI desktop apps you are already logged into, no API keys. | Python, pywinauto |
-| **Plain Robotics (yt-auto)** | Faceless explainer-video pipeline: script, voice, visuals, Telegram approval, upload, comment drafts. Free-tier tools only. | Python, Gemini, edge-tts, FFmpeg |
 | **T-Rex Runner** | Chrome dino clone built from the real sprite atlas, packaged as a single .exe. | Python, Pygame |
-| **ColourCards** | Card game shipped as an Android APK and an iPhone web app. | JS, Android, Firebase Hosting |
 
 ## What I care about
 
